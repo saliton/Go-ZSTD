@@ -1,4 +1,4 @@
-# やっぱりzstdのほうがよかった　GoでZIP内部のBZIP2を解凍
+# やっぱりzstdのほうがよかった　GoでZIP内部のzstdを解凍
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soliton-Analytics-Team/Go-ZSTD/blob/main/ZIP_ZSTD.ipynb)
 
