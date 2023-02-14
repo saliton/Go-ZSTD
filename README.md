@@ -1,8 +1,8 @@
 # やっぱりzstdのほうがよかった　GoでZIP内部のzstdを解凍
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soliton-Analytics-Team/Go-ZSTD/blob/main/ZIP_ZSTD.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saliton/Go-ZSTD/blob/main/ZIP_ZSTD.ipynb)
 
-[以前の記事](https://www.soliton-cyber.com/blog/go-bzip2)で、zipの圧縮にbzip2を使ったものをGo言語で読み出す方法について記載しました。しかし、zstdのほうが高性能ということなので同じことをzstdでやってみます。
+[以前の記事（一筋縄ではいかない　GoでZIPの中のBZIP2を解凍）](https://qiita.com/saliton/items/1a67dcaa8e4890908c48)で、zipの圧縮にbzip2を使ったものをGo言語で読み出す方法について記載しました。しかし、zstdのほうが高性能ということなので同じことをzstdでやってみます。
 
 
 まずサンプルを用意します。
